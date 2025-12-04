@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**DMC007/DMC007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**关于我：**
+* 来自成都的响应式开发者，偏向IO侧研究较多，努力探索技术的边界。
+* 头像是<a href="https://www.nintendo.com/hk/software/feature/splatoonqa/index.html ">斯普拉遁</a>
+* 排头兵Java工程师，代码不是一切，还是不上班爽
+* 正在学习 **Vertx**/**Netty**/**Raft**/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 我使用的语言（按喜爱程度排序）
+<a href="https://openjdk.org/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"></a>
+<a href="https://go.dev/" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/golang-000000?style=flat-square&logo=golang&logoColor=white"></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"></a>
