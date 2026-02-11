@@ -5,6 +5,7 @@
 * 头像是<a href="https://www.nintendo.com/hk/software/feature/splatoonqa/index.html ">斯普拉遁</a>
 * 排头兵Java工程师，代码不是一切，还是不上班爽
 * 正在学习 **Vertx**/**Netty**/**Raft**/
+* 联系email: 862343413@qq.com
 
 #### 我使用的语言（按喜爱程度排序）
 <a href="https://openjdk.org/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"></a>
